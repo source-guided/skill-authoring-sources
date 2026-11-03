@@ -1,0 +1,12 @@
+{
+  "format": 1,
+  "id": "skill-authoring",
+  "version": "1.0.0",
+  "role": "스킬 제작",
+  "exposure": "source-only",
+  "contract": "project-builder.source/v1",
+  "entry": "references/index.json",
+  "capabilities": [
+    "capabilities/author/SKILL.md"
+  ]
+}
