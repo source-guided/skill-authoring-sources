@@ -24,40 +24,19 @@
       ]
     },
     {
-      "id": "author",
-      "label": "author 내부 스킬",
-      "description": "author 내부 스킬",
-      "kind": "source",
+      "id": "authoring",
+      "label": "원천·내부 스킬 제작",
+      "description": "원천·내부 스킬 제작",
+      "kind": "reference",
       "access": "relative",
-      "locator": "../capabilities/author/SKILL.md",
+      "locator": "authoring/index.json",
       "topics": [
-        "author"
-      ]
-    },
-    {
-      "id": "review",
-      "label": "author-review",
-      "description": "author-review",
-      "kind": "source",
-      "access": "relative",
-      "locator": "../capabilities/author/sources/review.md",
-      "topics": [
-        "skill-authoring",
         "author",
-        "review"
-      ]
-    },
-    {
-      "id": "workflow",
-      "label": "author-workflow",
-      "description": "author-workflow",
-      "kind": "source",
-      "access": "relative",
-      "locator": "../capabilities/author/sources/workflow.md",
-      "topics": [
-        "skill-authoring",
-        "author",
-        "workflow"
+        "authoring",
+        "organization",
+        "review",
+        "원천",
+        "구조"
       ]
     },
     {

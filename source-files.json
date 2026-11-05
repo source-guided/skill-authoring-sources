@@ -5,8 +5,10 @@
   "LICENSE",
   "README.md",
   "capabilities/author/SKILL.md",
+  "capabilities/author/sources/organization.md",
   "capabilities/author/sources/review.md",
   "capabilities/author/sources/workflow.md",
+  "references/authoring/index.json",
   "references/index.json",
   "source-files.json",
   "source.json"
