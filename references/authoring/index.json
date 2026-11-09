@@ -11,7 +11,9 @@
       "topics": [
         "author",
         "authoring",
-        "organization"
+        "organization",
+        "스킬 제작",
+        "skill authoring"
       ]
     },
     {
@@ -24,7 +26,8 @@
       "topics": [
         "skill-authoring",
         "author",
-        "review"
+        "review",
+        "원천 검토"
       ]
     },
     {
@@ -37,7 +40,9 @@
       "topics": [
         "skill-authoring",
         "author",
-        "workflow"
+        "workflow",
+        "스킬 제작",
+        "skill authoring"
       ]
     },
     {
@@ -55,7 +60,9 @@
         "references",
         "구조",
         "본문",
-        "참조"
+        "참조",
+        "책임 분리",
+        "소유권"
       ]
     }
   ]

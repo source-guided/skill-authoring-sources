@@ -11,5 +11,6 @@
   "references/authoring/index.json",
   "references/index.json",
   "source-files.json",
-  "source.json"
+  "source.json",
+  "tests/test_discovery.py"
 ]
