@@ -9,3 +9,5 @@ Repeat the content review inside each affected branch. A first-level split is no
 Review the actual change for duplicated policy, invented acceptance conditions, arbitrary limits, fixed model choices, and unrequested approval steps. Preserve specific user requirements. A concrete conditional rule is useful only when the task justifies it.
 
 Use a representative task when behavior changed. Keep unsuccessful observations and the original artifact; distinguish package validity, model behavior and product acceptance. A limitation disclosed in documentation does not resolve a mandatory requirement gap.
+
+Use this area's `workflow` reference for the authoring standard on judgment support. Follow the consuming project's selected verification source for independent behavioral evaluation and evidence sufficiency. Keep evaluation findings and task-specific examples in the consumer's records; improve the responsible source instead of copying the findings into other owners or dispatch prompts.

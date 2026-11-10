@@ -50,6 +50,19 @@
         "contract",
         "reference"
       ]
+    },
+    {
+      "id": "client-entry",
+      "label": "참조 진입과 적용 맥락",
+      "description": "연결된 원천의 진입 및 참조 읽기 절차",
+      "kind": "source",
+      "access": "web",
+      "locator": "https://raw.githubusercontent.com/source-guided/project-builder/main/plugins/project-builder/sources/reference-entry.md",
+      "topics": [
+        "entry",
+        "reference",
+        "coverage"
+      ]
     }
   ]
 }
